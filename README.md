@@ -1,4 +1,4 @@
-# 🥋 retoKarate-BackEnd: Automatización de pruebas BackEnd
+# 🥋 Proyecto CRONOBOT: Automatización de pruebas BackEnd
 
 Este proyecto implementa pruebas automatizadas de **APIs REST** utilizando [Karate DSL](https://github.com/karatelabs/karate).  
 Karate combina **BDD (Behavior Driven Development)** con un potente motor para pruebas de servicios, permitiendo definir los tests en un lenguaje legible y a la vez muy flexible.  
